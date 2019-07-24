@@ -2,6 +2,7 @@
 *.bak
 *.qws
 *.c
+*.rpt
 .qsys_edit/
 db/
 incremental_db/
