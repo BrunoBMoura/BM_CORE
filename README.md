@@ -20,7 +20,7 @@ To run the project as it is, you will need:
 
 ## Notes
 
-The **BM32OS_msg_center** folder contains a implementation of a graphical interface to send and receive UART data from the processor during the BM32OS process scheduling, so it's not related strictly to the hardware architecture by itself, however it was used during the project development so it made it's way to the git repository.
+The **BM32OS_msg_center** folder contains a .ino file and the implementation of a graphical interface to send and receive UART data from the processor by the arduino during the BM32OS process scheduling, so it's not related strictly to the hardware architecture by itself, however it was used during the project development so it made it's way to the git repository.
 
 
 
